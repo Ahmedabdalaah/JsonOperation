@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonOperation", "JsonOperation\JsonOperation.csproj", "{37D27BBA-4416-4C0A-AFC4-678A88AB1E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D27BBA-4416-4C0A-AFC4-678A88AB1E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D27BBA-4416-4C0A-AFC4-678A88AB1E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D27BBA-4416-4C0A-AFC4-678A88AB1E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D27BBA-4416-4C0A-AFC4-678A88AB1E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF173B7F-A4F3-418B-B939-5BF0BD30F8E6}
+	EndGlobalSection
+EndGlobal
